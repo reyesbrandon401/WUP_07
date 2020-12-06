@@ -1,7 +1,7 @@
 ---
 title: "covid 19"
 author: "Brandon Reyes"
-date: "5/21/2020"
+date: "9/21/2020"
 output:
   html_document: default
   pdf_document: default
